@@ -57,4 +57,4 @@ See `results/strategy_vs_buyhold.png`
 
 ```bash
 pip install -r requirements.txt
-python src/backtest.py
+python main.py
